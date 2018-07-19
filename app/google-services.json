@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "963745780310",
+    "firebase_url": "https://draftempat.firebaseio.com",
+    "project_id": "draftempat",
+    "storage_bucket": "draftempat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963745780310:android:c9870e8468102495",
+        "android_client_info": {
+          "package_name": "android.com.draftempat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963745780310-u5lnrmigpibkull8mg72m7augn1flo4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.com.draftempat",
+            "certificate_hash": "b82199ea4a804fd7caaf49747ff9ee7e973d5d46"
+          }
+        },
+        {
+          "client_id": "963745780310-giv0go2in0uou0u5laf63ms9qv1aiard.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqouKEA3INuyyOgWuC7qedCQ8f-W3XZUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963745780310-giv0go2in0uou0u5laf63ms9qv1aiard.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
